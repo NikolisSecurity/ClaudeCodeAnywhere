@@ -1,4 +1,4 @@
-# 🚀 ClaudeCodeAnywhere Dev Setup (Remote + Secure Workflow)
+# 🚀 ClaudeCodeAnywhere Dev Setup (Remote + Free + Secure Workflow)
 
 A personal development setup for interacting with Claude-compatible APIs, using **OpenRouter**, with secure remote access via **Tailscale**, mobile control using **Termius (on phone)**, and an enhanced terminal experience using **Oh My Claude**.
 
